@@ -1,5 +1,5 @@
 {
-    "name": "openSAPHANA-srv",
+    "name": "srv",
     "description": "Generated from ../package.json, do not change!",
     "version": "1.0.0",
     "dependencies": {
